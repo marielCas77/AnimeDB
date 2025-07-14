@@ -240,7 +240,7 @@ CREATE TABLE animes(
     name VARCHAR2(100) NOT NULL,
     english_name VARCHAR2(100),
     other_name NVARCHAR2(80),
-    synopsis VARCHAR2(10000) NOT NULL,
+    synopsis VARCHAR2(4000) NOT NULL,
     episodes NUMBER,
     scored_by NUMBER NOT NULL,
     members NUMBER NOT NULL,
