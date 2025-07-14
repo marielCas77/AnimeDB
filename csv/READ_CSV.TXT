@@ -1,0 +1,2 @@
+PARA UN BUEN FUNCIONAMIENTO DEL SCRIPT IPYBN, DESCARGAR EN ESTE FOLDER LOS ARCHIVOS DEL SIGUIENTE DATASET
+https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset

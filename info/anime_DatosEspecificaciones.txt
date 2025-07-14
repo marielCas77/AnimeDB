@@ -1,0 +1,22 @@
+name NO puede ser NULL
+english name puede ser null (=UNKNOWN)
+japanese name puede ser null (=UNKNOWN)
+score NO puede ser null
+genre NO puede ser null
+synopsis NO puede ser null
+type NO puede ser null
+si episodes UNKNOWN set to NULL (anime que aun no termina de salir al aire)
+^^ aired_end puede ser ?, set to NULL
+season NO puede ser null
+producers puede ser null
+licensors puede ser null
+studios puede ser null
+source NO puede ser null
+duration NO puede ser null
+clasification NO puede ser null
+rank/ranked NO puede ser null
+popularity NO puede ser null
+favorites NO puede ser null
+members NO puede ser null
+##sacar image url de anime_dataset-2023, lo demas se puede sacar de anime_filtered
+image_irl NO puede ser null
